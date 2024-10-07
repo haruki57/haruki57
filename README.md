@@ -1,6 +1,6 @@
-- How to reach me: [Twitter - @haruki_57](https://twitter.com/haruki_57)
-  - as a gamer: [Twitter - @harukisb](https://twitter.com/harukisb)
-- Private projects
+- How to reach me: [X - @haruki_57](https://twitter.com/haruki_57)
+  - as a gamer: [X - @harukisb](https://twitter.com/harukisb)
+- Personal projects
   - [Daily Smashmate (デイリースマメイト)](https://daily-smashmate.harukisb.net/): a web application that allows you to search for players on [Smashmate(スマメイト)](https://smashmate.net/) and view their records.
     - TypeScript, Nextjs (App Router), tailwind, Prisma
     - [Repository](https://github.com/haruki57/daily-smashmate-frontend)
